@@ -1,0 +1,86 @@
+{
+    "tables":[
+       {
+        "table_name": "table_1",
+        "columns":[
+             {
+                "operator":"IN",
+                "fieldName":"column1",
+                "fieldValue":"value1"
+             },
+             {
+                "operator":"Equal",
+                "fieldName":"column2",
+                "fieldValue":"value2"
+             },
+             {
+                "operator":">=",
+                "fieldName":"column3",
+                "fieldValue":"value3"
+             }
+          ]
+       },
+       {
+        "table_name": "table_2",  
+        "columns":[
+             {
+                "operator":"<=",
+                "fieldName":"column4",
+                "fieldValue":"value4"
+             },
+             {
+                "operator":"like",
+                "fieldName":"column5",
+                "fieldValue":"value5"
+             },
+             {
+                "operator":">=",
+                "fieldName":"column6",
+                "fieldValue":"value6"
+             },
+             {
+                "operator":"IN",
+                "fieldName":"relationship_value",
+                "fieldValue":"value"
+             },
+             {
+                "operator": "",
+                "fieldName":"relationship_table",
+                "fieldValue":"table_1"
+
+             }
+          ]
+       },
+       {
+        "table_name": "table_3",  
+        "columns":[
+             {
+                "operator":"<=",
+                "fieldName":"column7",
+                "fieldValue":"value7"
+             },
+             {
+                "operator":"like",
+                "fieldName":"column8",
+                "fieldValue":"value8"
+             },
+             {
+                "operator":">=",
+                "fieldName":"column9",
+                "fieldValue":"value9"
+             },
+             {
+                "operator":"IN",
+                "fieldName":"relationship_value",
+                "fieldValue":"value"
+             },
+             {
+                "operator": "",
+                "fieldName":"relationship_table",
+                "fieldValue":"table_2"
+
+             }
+          ]
+       }
+    ]
+ }

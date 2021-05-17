@@ -1,0 +1,11 @@
+/home/matheus/www/caribe_project/code_assignment_project/bin/Debug/netcoreapp2.2/code_assignment_project.deps.json
+/home/matheus/www/caribe_project/code_assignment_project/bin/Debug/netcoreapp2.2/code_assignment_project.runtimeconfig.json
+/home/matheus/www/caribe_project/code_assignment_project/bin/Debug/netcoreapp2.2/code_assignment_project.runtimeconfig.dev.json
+/home/matheus/www/caribe_project/code_assignment_project/bin/Debug/netcoreapp2.2/code_assignment_project.dll
+/home/matheus/www/caribe_project/code_assignment_project/bin/Debug/netcoreapp2.2/code_assignment_project.pdb
+/home/matheus/www/caribe_project/code_assignment_project/obj/Debug/netcoreapp2.2/code_assignment_project.csprojAssemblyReference.cache
+/home/matheus/www/caribe_project/code_assignment_project/obj/Debug/netcoreapp2.2/code_assignment_project.csproj.CoreCompileInputs.cache
+/home/matheus/www/caribe_project/code_assignment_project/obj/Debug/netcoreapp2.2/code_assignment_project.AssemblyInfoInputs.cache
+/home/matheus/www/caribe_project/code_assignment_project/obj/Debug/netcoreapp2.2/code_assignment_project.AssemblyInfo.cs
+/home/matheus/www/caribe_project/code_assignment_project/obj/Debug/netcoreapp2.2/code_assignment_project.dll
+/home/matheus/www/caribe_project/code_assignment_project/obj/Debug/netcoreapp2.2/code_assignment_project.pdb
